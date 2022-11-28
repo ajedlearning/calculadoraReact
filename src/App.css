@@ -10,9 +10,9 @@
   align-items: center;
 }
 
-.freecode-camp-logocontenedor{
-    width: 200%;
-    height: 100px;
+.freecode-camp-logo-contenedor{
+    
+    height: 500px;
     margin: 8px;
     display: flex;
     align-items: center;
@@ -31,3 +31,11 @@
   border-radius: 20px;
   border: solid 5px white;
 }
+
+.fila{
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
